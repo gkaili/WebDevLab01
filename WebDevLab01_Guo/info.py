@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/aboutme.jpg"
+profile_picture = "WebDevLab01_Guo/Images/aboutme.jpg"
 about_me = "My name is Kai Li Guo, and I'm a full time BME student on the pre-med track at Georgia Institute of Technology. My number one goal in life is to learn how to do a backflip so I can flip on my haters 😒😎💯💯#theonlythingtheytakefrommeisnotes🔥🔥🔥."
 
 #CHANGE BELOW
@@ -31,7 +31,7 @@ course_data = {
     }
 experience_data = {
     "Server at Great Wall": (["- Managed all front-of-house operations independently",
-                                                                          "- Resolved customer service conflicts swiftly"],"Images/cook.jpg"),
+                                                                          "- Resolved customer service conflicts swiftly"],"WebDevLab01_Guo/Images/cook.jpg"),
 }
 
 projects_data = {
@@ -60,7 +60,7 @@ spoken_data = {
     "Mandarin": "Fluent",
 }
 leadership_data = {
-    "Marching Band Pit Captain": (["- Led practice and prepared front ensemble for performances."],"Images/band.jpg"),
+    "Marching Band Pit Captain": (["- Led practice and prepared front ensemble for performances."],"WebDevLab01_Guo/Images/band.jpg"),
 
 }
 activity_data={

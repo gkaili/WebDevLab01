@@ -128,7 +128,7 @@ if st.button("Click to see results 👀"):
     if trait == "swag":
         st.title("Boi, you just got bamboozled🤯🫱")
         st.header("Your spirit animal is Tralalero Tralala!!! 🦈")
-        st.image("Images/tralalero-tralala.jpg", width = 800)
+        st.image("WebDevLab01_Guo/Images/tralalero-tralala.jpg", width = 800)
         st.write("""
         Like those impossible designer sneakers on Tralalero Tralala's 3 feet, your natural aura demands absolute respect from every room you enter.
         Your effortless confidence is your most alluring quality, but that swaggy shell is hiding a terrifying amount of tomfoolery.
@@ -137,7 +137,7 @@ if st.button("Click to see results 👀"):
     if trait == "graceful":
         st.title("Boi, you just got bamboozled🤯🫱")
         st.header("Your spirit animal is Ballerina Cappuccina!!! 🧑‍🩰")
-        st.image("Images/ballerina_cappuccina.jpg", width = 800)
+        st.image("WebDevLab01_Guo/Images/ballerina_cappuccina.jpg", width = 800)
         st.write("""
         Like a delicate espresso shot poured straight into a pirouette, you glide through life with terrifying poise.
         You never trip.
@@ -147,7 +147,7 @@ if st.button("Click to see results 👀"):
     if trait == "extraordinary":
         st.title("Boi, you just got bamboozled🤯🫱")
         st.header("Your spirit animal is Trippi Troppi!!! 🍤")
-        st.image("Images/trippi_troppi.jpg", width = 800)
+        st.image("WebDevLab01_Guo/Images/trippi_troppi.jpg", width = 800)
         st.write("""
         Reality simply cannot contain your dimensions.
         You exist simultaneously in five alternate timelines, operating on a frequency that defies both physics and common sense.
@@ -157,7 +157,7 @@ if st.button("Click to see results 👀"):
     if trait == "wise":
         st.title("Boi, you just got bamboozled🤯🫱")
         st.header("Your spirit animal is Brr Brr Patapim!!! 🦧")
-        st.image("Images/brr_brr_patipim.webp", width = 800)
+        st.image("WebDevLab01_Guo/Images/brr_brr_patipim.webp", width = 800)
         st.write("""
         You hold the forbidden secrets of the universe... but you choose to communicate them strictly through auditory sound effects.
         Your brain is a library of profound epiphanies wrapped in absolute nonsense, making you an uncrackable riddle.
@@ -166,7 +166,7 @@ if st.button("Click to see results 👀"):
     if trait == "violent":
         st.title("Boi, you just got bamboozled🤯🫱")
         st.header("Your spirit animal is Tung Tung Tung Sahur!!! 🪵")
-        st.image("Images/tung_tung_tung_sahur.avif", width = 800)
+        st.image("WebDevLab01_Guo/Images/tung_tung_tung_sahur.avif", width = 800)
         st.write("""
         Peace was never an option.
         You don't negotiate with problems, you just beat them into submission.
