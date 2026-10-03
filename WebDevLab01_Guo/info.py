@@ -36,6 +36,8 @@ experience_data = {
 
 projects_data = {
     "Unicorn Revival": "Restore the exsistence of unicorns into our world.",
+    "Spirit Animal Quiz": "Developed a quiz to synthesize personality traits into an animal persona."
+
 }
 
 programming_data = {
