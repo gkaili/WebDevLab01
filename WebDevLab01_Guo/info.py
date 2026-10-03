@@ -12,7 +12,7 @@ email_image_url = "https://logowik.com/content/uploads/images/513_email.jpg"
 
 #CHANGE BELOW
 my_linkedin_url = "https://www.linkedin.com/in/kai-li-guo-8514783a4/"
-my_github_url = "https://github.com/th"
+my_github_url = "https://github.com/gkaili"
 my_email_address = "kguo78@gatech.edu"
 
 
